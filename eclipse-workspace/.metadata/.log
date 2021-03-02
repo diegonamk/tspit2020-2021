@@ -1,20 +1,20 @@
-!SESSION 2021-03-02 18:14:50.024 -----------------------------------------------
+!SESSION 2021-03-02 20:06:39.664 -----------------------------------------------
 eclipse.buildId=4.15.0.I20200305-0155
 java.version=13.0.2
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
-Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\User\Documents\GitHub\tspit2020-2021\eclipse-workspace -product org.eclipse.epp.package.java.product
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\User\Documents\GitHub\tspit2020-2021\eclipse-workspace -product org.eclipse.epp.package.java.product
 
 This is a continuation of log file C:\Users\User\Documents\GitHub\tspit2020-2021\eclipse-workspace\.metadata\.bak_0.log
-Created Time: 2021-03-02 18:14:54.836
+Created Time: 2021-03-02 20:06:51.612
 
-!ENTRY org.eclipse.mylyn.tasks.core 4 0 2021-03-02 18:14:54.842
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2021-03-02 20:06:51.635
 !MESSAGE Unexpected error while loading repository template extensions
-!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2021-03-02 18:14:54.842
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2021-03-02 20:06:51.635
 !MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
 
-!ENTRY org.eclipse.egit.ui 2 0 2021-03-02 18:14:59.504
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-02 20:06:57.087
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
