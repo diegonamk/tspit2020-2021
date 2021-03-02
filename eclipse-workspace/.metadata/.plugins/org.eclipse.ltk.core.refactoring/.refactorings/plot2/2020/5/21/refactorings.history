@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;SIMCovid/src/SIMCovid&apos;&#x0D;&#x0A;- Original project: &apos;plot2&apos;&#x0D;&#x0A;- Destination element: &apos;SIMCovid/src/SIMCovid&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     plot2.Page.java&#x0D;&#x0A;     plot2.Main.java&#x0D;&#x0A;     plot2.Plot.java&#x0D;&#x0A;     plot2.Umano.java" description="Copy compilation units" destination="=SIMCovid/src&lt;SIMCovid" element1="/src&lt;plot2{Page.java" element2="/src&lt;plot2{Main.java" element3="/src&lt;plot2{Plot.java" element4="/src&lt;plot2{Umano.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590162145167" units="4" version="1.0"/>
+</session>

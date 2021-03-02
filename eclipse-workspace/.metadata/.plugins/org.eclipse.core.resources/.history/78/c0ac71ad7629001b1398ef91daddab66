@@ -1,0 +1,16 @@
+package server;
+import java.io.*;
+import java.net.*;
+
+
+public class Server {
+	
+	ServerSocket server = null;
+	Socket socketClient = null;
+	
+	DataInputStream in;
+	DataOutputStream out;
+	
+	int porta = 
+
+}

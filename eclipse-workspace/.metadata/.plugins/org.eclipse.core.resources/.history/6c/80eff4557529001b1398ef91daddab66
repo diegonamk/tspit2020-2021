@@ -1,0 +1,7 @@
+import java.net.*;
+
+package server;
+
+public class Server {
+
+}

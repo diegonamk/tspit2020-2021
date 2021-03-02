@@ -1,0 +1,33 @@
+package server;
+import java.io.*;
+import java.net.*;
+
+public class Client {
+	
+	Socket mioSocket = null;
+	int porta = 6789;
+	DataInputStream in; 
+	DataOutputStream out;
+	
+	public Socket connetti() {
+		try {
+			Socket server = new Socket(InetAddress.getLocalHost(), porta);
+			in = new DataInputStream(server.getInputStream());
+			out = new DataOutputStream(server.getOutputStream());
+			
+		} catch (UnknownHostException e) {
+			
+			System.err.println("Host sconosciuto");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

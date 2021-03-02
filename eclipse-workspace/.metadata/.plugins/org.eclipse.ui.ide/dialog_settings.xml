@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\User\Desktop\test\SIMCovid"/>
+			<item value="C:\Users\User\git\Petru"/>
+			<item value="C:\Users\User\git\gr6"/>
+			<item value="C:\Users\User\git\gruppo6"/>
+			<item value="C:\Users\User\git\sos"/>
+			<item value="C:\Users\User\git\SIMCovid"/>
+			<item value="C:\Users\User\git\Function-Grapher"/>
+			<item value="C:\Users\User\git\grafico"/>
+			<item value="C:\Users\User\git\test"/>
+			<item value="C:\Users\User\git\ContoCorrente"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="136"/>
+		<item key="DIALOG_Y_ORIGIN" value="269"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

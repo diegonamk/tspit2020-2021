@@ -1,0 +1,174 @@
+2020-04-02 02:11:17,307 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-02 02:33:05,357 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\repository\.git]
+2020-04-02 15:04:12,915 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-03 16:32:50,210 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-03 17:13:20,482 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-03 20:48:04,437 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-07 11:46:13,155 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-07 12:20:26,862 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\ContoCorrente\.git]
+2020-04-07 12:43:10,609 [Worker-21: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\ContoCorrente\.git]
+2020-04-07 13:30:40,244 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\ContoCorrente\.git]
+2020-04-07 13:30:40,298 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\Auto noleggio\.git]
+2020-04-07 15:34:58,282 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-09 11:50:21,310 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-09 23:41:16,980 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-11 00:07:36,019 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-11 11:56:18,842 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-13 17:34:19,129 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-14 11:15:33,779 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-14 16:58:56,941 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-14 18:02:21,963 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-14 18:25:28,450 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-16 00:56:42,980 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-16 21:18:05,659 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-16 22:37:54,889 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-17 10:07:56,230 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-18 00:26:31,140 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-18 11:56:23,739 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-18 20:58:44,829 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-18 21:00:55,970 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-19 11:24:10,266 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-20 00:21:29,475 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-20 22:57:57,279 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-21 02:44:26,194 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-21 10:23:37,310 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-21 20:15:34,773 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-22 12:17:08,224 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-15 17:44:34,381 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-15 18:40:34,765 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-17 13:06:17,248 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-17 16:48:17,979 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-18 16:05:38,871 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-19 11:37:35,582 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-19 18:50:29,894 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-20 15:35:09,699 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-21 20:46:38,290 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-22 16:47:46,922 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-22 18:17:40,012 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-23 15:44:30,963 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-23 21:35:02,806 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-23 22:30:29,056 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-25 20:09:11,944 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-25 20:16:29,450 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-25 20:20:12,142 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\gruppo6\.git]
+2020-05-25 20:21:22,777 [Worker-9: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\gr6\.git]
+2020-05-26 01:24:12,798 [Framework stop] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\Petru\.git]
+2020-05-26 01:24:43,363 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-26 10:20:40,734 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-27 15:07:38,878 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-27 16:01:04,789 [Worker-25: Decoration Calculation] WARN  o.e.j.i.s.file.ObjectDirectory - Pack file C:\Users\User\git\SIMCovid\.git\objects\pack\pack-99c9ba89dd0fd9a9cf3d14725c47d10fc0c7a4e1.pack was deleted, removing it from pack list
+java.io.FileNotFoundException: C:\Users\User\git\SIMCovid\.git\objects\pack\pack-99c9ba89dd0fd9a9cf3d14725c47d10fc0c7a4e1.pack (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method) ~[na:na]
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:347) ~[na:na]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:261) ~[na:na]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:216) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.doOpen(PackFile.java:657) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.beginWindowCache(PackFile.java:638) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:501) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:593) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:327) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:226) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.readFully(PackFile.java:614) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.load(PackFile.java:796) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:284) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:455) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:413) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:404) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:132) ~[na:na]
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:203) ~[na:na]
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:908) ~[na:na]
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:818) ~[na:na]
+	at org.eclipse.jgit.lib.BranchTrackingStatus.of(BranchTrackingStatus.java:59) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$3(DecoratorRepositoryStateCache.java:160) ~[na:na]
+	at org.eclipse.egit.core.UnitOfWork.get(UnitOfWork.java:132) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$2(DecoratorRepositoryStateCache.java:153) ~[na:na]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1705) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.getBranchStatus(DecoratorRepositoryStateCache.java:152) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateRepository(RepositoryTreeNodeDecorator.java:346) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateText(RepositoryTreeNodeDecorator.java:240) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateNode(RepositoryTreeNodeDecorator.java:135) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.lambda$0(RepositoryTreeNodeDecorator.java:126) ~[na:na]
+	at org.eclipse.egit.core.UnitOfWork.execute(UnitOfWork.java:96) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorate(RepositoryTreeNodeDecorator.java:125) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:251) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346) ~[na:na]
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386) ~[na:na]
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-05-27 16:01:04,820 [Worker-25: Decoration Calculation] ERROR o.e.j.i.s.file.ObjectDirectory - Exception caught while accessing pack file C:\Users\User\git\SIMCovid\.git\objects\pack\pack-144a59eb1ab97a3214d5e93530d2bc991be75599.pack, the pack file might be corrupt. Caught 1 consecutive errors while trying to read this pack.
+java.io.IOException: Unreadable pack index: C:\Users\User\git\SIMCovid\.git\objects\pack\pack-144a59eb1ab97a3214d5e93530d2bc991be75599.idx
+	at org.eclipse.jgit.internal.storage.file.PackIndex.open(PackIndex.java:69) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.idx(PackFile.java:163) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:283) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:455) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:413) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:404) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:132) ~[na:na]
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:203) ~[na:na]
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:908) ~[na:na]
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:818) ~[na:na]
+	at org.eclipse.jgit.lib.BranchTrackingStatus.of(BranchTrackingStatus.java:59) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$3(DecoratorRepositoryStateCache.java:160) ~[na:na]
+	at org.eclipse.egit.core.UnitOfWork.get(UnitOfWork.java:132) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$2(DecoratorRepositoryStateCache.java:153) ~[na:na]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1705) ~[na:na]
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.getBranchStatus(DecoratorRepositoryStateCache.java:152) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateRepository(RepositoryTreeNodeDecorator.java:346) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateText(RepositoryTreeNodeDecorator.java:240) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorateNode(RepositoryTreeNodeDecorator.java:135) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.lambda$0(RepositoryTreeNodeDecorator.java:126) ~[na:na]
+	at org.eclipse.egit.core.UnitOfWork.execute(UnitOfWork.java:96) ~[na:na]
+	at org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator.decorate(RepositoryTreeNodeDecorator.java:125) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:251) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360) ~[na:na]
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346) ~[na:na]
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386) ~[na:na]
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+Caused by: java.io.FileNotFoundException: C:\Users\User\git\SIMCovid\.git\objects\pack\pack-144a59eb1ab97a3214d5e93530d2bc991be75599.idx (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[na:na]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213) ~[na:na]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:155) ~[na:na]
+	at org.eclipse.jgit.util.io.SilentFileInputStream.<init>(SilentFileInputStream.java:31) ~[na:na]
+	at org.eclipse.jgit.internal.storage.file.PackIndex.open(PackIndex.java:65) ~[na:na]
+	... 29 common frames omitted
+2020-05-27 16:20:13,868 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\SIMCovid\.git]
+2020-05-27 16:59:26,750 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\SIMCovid\.git]
+2020-05-29 17:49:58,959 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-29 18:19:43,180 [Framework stop] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\git\SIMCovid\.git]
+2020-05-29 18:19:43,211 [Framework stop] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\User\Desktop\test\SIMCovid\.git]
+2020-10-04 00:22:52,027 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-18 08:24:21,727 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-20 11:23:27,415 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-21 15:54:01,071 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-25 09:20:22,004 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-29 18:09:05,218 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-02 08:23:20,867 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-02 09:48:20,790 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 18:47:23,129 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-07 13:27:35,267 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-08 01:34:28,075 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-08 21:20:01,603 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-09 08:20:59,571 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-09 09:25:48,436 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-16 09:09:44,462 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-17 20:11:53,623 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-25 12:19:45,851 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-19 18:59:46,220 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-09 21:18:32,325 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-10 08:22:57,924 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-10 11:36:43,098 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-10 18:49:47,601 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-24 08:56:51,693 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-02 16:04:09,822 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-02 17:43:16,144 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 17:46:02,882 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 18:08:00,183 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 18:11:24,489 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 18:14:58,521 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

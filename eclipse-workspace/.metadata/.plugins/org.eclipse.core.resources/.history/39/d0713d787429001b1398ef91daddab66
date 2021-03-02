@@ -1,0 +1,7 @@
+import java.io;
+
+package server;
+
+public class Server {
+
+}

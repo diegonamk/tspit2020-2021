@@ -1,0 +1,46 @@
+package server;
+import java.io.*;
+import java.net.*;
+
+
+public class Server {
+	
+	ServerSocket server = null;
+	Socket socketClient = null;
+	
+	DataInputStream in;
+	DataOutputStream out;
+	
+	int porta = 6789;//porta server
+	
+	public Socket attendi() {
+		
+		
+		try {
+			System.out.println("[0] - Inizializzazione server...");
+			//inizializiamo il server
+			server = new ServerSocket(porta);
+			
+			System.out.println("[1] - Server pronto,in ascolto sulla porta: " + porta);
+			//mi metto in ascolto sulla porta che ho aperto
+			socketClient = server.accept();
+			
+			System.out.println("[2] - Connessione stabilita con un client!");
+			//evitiamo connessioni multiple
+			server.close();
+			
+			in = new DataInputStream(socketClient.getInputStream());
+			out = new DataOutputStream(socketClient.getOutputStream());
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return socketClient;
+		
+		
+		
+	}
+
+}

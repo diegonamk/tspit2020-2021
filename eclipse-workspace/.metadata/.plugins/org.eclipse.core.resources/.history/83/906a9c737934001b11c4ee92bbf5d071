@@ -1,0 +1,74 @@
+package server;
+import java.io.*;
+import java.net.*;
+
+public class Client {
+	
+	Socket mioSocket = null;
+	int porta = 6789;
+	DataInputStream in; 
+	DataOutputStream out;
+	BufferedReader tastiera;
+	
+	public Socket connetti() {
+		try {
+			System.out.println("[0] - Provo a connettermi al server...");
+			Socket mioSocket = new Socket(InetAddress.getLocalHost(), porta);
+			System.out.println("[1] - Connesso!");
+			in = new DataInputStream(mioSocket.getInputStream());
+			out = new DataOutputStream(mioSocket.getOutputStream());
+			
+		} catch (UnknownHostException e) {//errore nel caso in cui l'host(tu) non sia quello desiderato dal server
+										  //quindi la connessione non viene stabilita
+			
+			System.err.println("Host sconosciuto");
+		} catch (Exception e) {//qualunque tipo di errore
+			System.err.println("Impossibile stabilire la connessione");
+		}
+		return mioSocket;
+	}
+	
+	public void Comunica() {
+		
+		try {
+			tastiera = new BufferedReader(new InputStreamReader(System.in));
+			System.out.println("[2] - Messaggio da inviare al server: ");
+			String messaggio = tastiera.readLine();
+			System.out.println("[3] - Invio: " + messaggio);
+			out.writeBytes(messaggio + "\n");
+			System.out.println("[4] - In attesa di una risposta...");
+			String ricevuta = in.readLine();
+			System.out.println("[5] - Risposta dal server: " + ricevuta);
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	public void Calcolatrice() {
+		
+		try {
+			tastiera= new BufferedReader(new InputStreamReader(System.in));
+			System.out.println("[2] - Primo numero da inviare: ");
+			out.writeFloat(Float.valueOf(tastiera.readLine()).floatValue());
+			System.out.println("[3] - Operatore da inviare: ");
+			out.writeBytes(tastiera.readLine());
+			System.out.println("[4] - Secondo numero da inviare: ");
+			out.writeFloat(Float.valueOf(tastiera.readLine()).floatValue());
+			System.out.println("[5] - In attesa di una risposta...");
+		} catch (NumberFormatException | IOException e) {
+			e.printStackTrace();
+		}
+	
+	}
+	
+	public static void main(String[] args) {
+		Client c = new Client();
+		c.connetti();
+		c.Comunica();
+
+	}
+
+}

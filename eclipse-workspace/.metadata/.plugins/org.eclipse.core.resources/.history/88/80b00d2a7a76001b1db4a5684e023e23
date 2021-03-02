@@ -1,0 +1,12 @@
+import java.net.*;
+import java.io.*;
+
+
+public class Server {
+	void main (String args[]) throws Exception{
+		
+		
+		
+	}
+
+}

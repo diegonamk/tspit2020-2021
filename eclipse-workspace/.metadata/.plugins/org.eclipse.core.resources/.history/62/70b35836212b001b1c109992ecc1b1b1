@@ -1,0 +1,17 @@
+package server;
+import java.io.*;
+import java.net.*;
+
+public class Client {
+	
+	Socket mioSocket = null;
+	int porta = 6789;
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
